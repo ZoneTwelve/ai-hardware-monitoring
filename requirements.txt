@@ -1,0 +1,6 @@
+fire
+requests
+rich
+wandb
+python-dotenv
+datasets
